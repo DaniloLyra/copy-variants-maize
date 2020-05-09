@@ -17,3 +17,9 @@ The phenotypic and genotypic data for the maize hybrids included in this study c
 ## Funding
 This project was supported by São Paulo Research Foundation-FAPESP (Process: 2013/24135-2; 2014/26326-2; 2015/14376-8). We thank Helix Sementes® for the partnership and dataset.
 
+<p float="left">
+<img src="https://github.com/DaniloLyra/copy-variants-maize/blob/master/alogamous.jpg" width="100" height="100">
+<img src="https://github.com/DaniloLyra/copy-variants-maize/blob/master/esalq.jpg" width="100" height="100">
+<img src="https://github.com/DaniloLyra/copy-variants-maize/blob/master/fapesp2.jpg" width="100" height="100">
+ <img src="https://github.com/DaniloLyra/copy-variants-maize/blob/master/helix.jpg" width="100" height="100">
+</p>
